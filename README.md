@@ -1,2 +1,2 @@
 # Algorithms
-Repository for Alorithms implemented in Java
+Repository for Algorithms implemented in Java
